@@ -1,6 +1,6 @@
 name: whatsapp
-title: Whatsapp Test
+title: Whatsapp Docs
 version: 1.0
-prerelease: -beta.1
+prerelease: -v.1
 nav:
 - modules/ROOT/nav.adoc
